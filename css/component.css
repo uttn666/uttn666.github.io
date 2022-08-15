@@ -11,8 +11,8 @@
 
 .dr-menu {
     width: 100%;
-    max-width: 400px;
-    min-width: 300px;
+    max-width: 250px;
+    min-width: 150px;
     position: relative;
     font-size: 1.3em;
     line-height: 1.5;
@@ -216,5 +216,7 @@
 }
 
 .dr-icon-menu:before {
-	content: "\e007";
+	 content: url("../123/3123.png");
+	 
+	
 }
